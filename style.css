@@ -9,6 +9,10 @@ body{font: size 20px;
 
   .imagem{width: 100%;}
   
-  .beneficio{width: 100%;}
+  .beneficio{width: 50%;}
+
+.lista{ display: inline-block;vertical-align: top;}
+
+.titulo{padding: 20px;}
 
 .destaque{color: red;}
